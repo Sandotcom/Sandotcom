@@ -25,6 +25,6 @@ __Javascript__, __HTML__, __CSS__, __SQL__, __PostgreSQL__, __Sequelize__, __Typ
 
 ##
 
-<img href="https://raw.githubusercontent.com/Sandotcom/Sandotcom/blob/output/snake.svg" alt="Snake animation" />
+![Snake](https://github.com/Sandotcom/Sandotcom/blob/output/snake.svg)
 
 ###
