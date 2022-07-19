@@ -25,4 +25,6 @@ __Javascript__, __HTML__, __CSS__, __SQL__, __PostgreSQL__, __Sequelize__, __Typ
 
 ##
 
-![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
+<img href="https://raw.githubusercontent.com/Sandotcom/Sandotcom/blob/output/snake.svg" alt="Snake animation" />
+
+###
