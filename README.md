@@ -14,9 +14,6 @@ __Javascript__, __HTML__, __CSS__, __SQL__, __PostgreSQL__, __Sequelize__, __Typ
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=santiagotrabucco@gmail.com&tf=cm" target="blank">
    <img align="center" alt="Santiago Trabucco" height="45" width="45" src="https://user-images.githubusercontent.com/28950541/147156605-d9db2140-cf49-4d0a-b526-e238528aa819.png">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=542214205694" target="blank">
-   <img align="center" alt="Santiago Trabucco" height="45" width="45" src="https://user-images.githubusercontent.com/28950541/147156845-9db3d6e5-994c-4287-9d9a-43f999588ef2.png">
-  </a>
 </div>
 
 ## Technologies
